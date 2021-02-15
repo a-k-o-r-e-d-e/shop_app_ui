@@ -12,11 +12,11 @@ A Shop App Ui built Using Flutter
 
 ![Details Screen 1](/screenshots/details_screen_1.png)
 
-<h5> Details Screen 1 </h5>
+<h5> Details Screen 2 </h5>
 
 ![Details Screen 2](/screenshots/details_screen_2.png)
 
-<h5> Details Screen 1 </h5>
+<h5> Details Screen 3 </h5>
 
 ![Details Screen 3](/screenshots/details_screen_3.png)
 
